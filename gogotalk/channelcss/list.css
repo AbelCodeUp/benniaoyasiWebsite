@@ -1,0 +1,61 @@
+.icon {
+   width: 1em; height: 1em;
+   vertical-align: -0.15em;
+   fill: currentColor;
+   overflow: hidden;
+}
+.listboxs{
+	margin:20px auto 20px;
+	overflow: hidden;
+}
+.listboxs .list{
+	width: 25%;
+	height: 90px;
+	float: left;
+	border-radius: 3px;
+	padding: 0 50px 0 50px;
+}
+.listboxs .list .con{
+	height: 88px;
+	background: #337ab7;
+	border:1px solid #337ab7;
+	padding:14px 16px 0 16px;
+	color:#fff;
+	text-align: right;
+	position: relative;
+	border-radius: 3px;
+}
+.listboxs .list .con h3{
+	margin:0;
+	font-weight: normal;
+	font-size: 18px;
+    color:#fff;
+}
+.listboxs .list .con p{
+	margin:0;
+	font-size: 14px;
+}
+.listboxs .list .con .tubiao{
+	position: absolute;
+	left: 16px;
+	top:14px;
+	font-size: 70px;
+}
+.listboxs .list2 .con2{
+	border:1px solid #5cb85c;
+}
+.listboxs .list2 .con{
+	background: #5cb85c;
+}
+.listboxs .list3 .con3{
+	border:1px solid #f0ad4e;
+}
+.listboxs .list3 .con{
+	background: #f0ad4e;
+}
+.listboxs .list4 .con4{
+	border:1px solid #d9534f;
+}
+.listboxs .list4 .con{
+	background: #d9534f;
+}

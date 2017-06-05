@@ -1,0 +1,331 @@
+.wlhClassbox{
+	width: 100%;
+	height: auto;
+	-moz-user-select:none;
+    -webkit-user-select:none;
+    -ms-user-select:none;
+    -khtml-user-select:none;
+    user-select:none;
+    font-family: "微软雅黑";
+}
+.wlhClassbox .classheader{
+	width: 100%;
+	margin-top: 52px;
+	margin-bottom: 87px;
+	text-align: center;
+	position: relative;
+}
+.wlhClassbox .classheader .classheadermi{
+   width: 995px;
+   height: 52px;
+   position: relative;
+   margin:0 auto;
+}
+.wlhClassbox .classheader .wlhone{
+	width: 257px;
+	height: 2px;
+	background: url("../images/class_new/22.png") no-repeat;
+	position: absolute;
+	left: 15px;
+	top:0;	
+	bottom:0;
+	margin:auto 0;
+}
+.wlhClassbox .classheader .wlhtwo{
+	width: 257px;
+	height: 2px;
+	background: url("../images/class_new/11.png") no-repeat;
+	position: absolute;
+	right: 15px;
+	top:0;
+	bottom:0;
+	margin:auto 0;
+}
+.wlhClassbox .classheader h1{
+	font-size: 42px;
+	color:#c92c2c;
+	font-weight: normal;
+}
+.wlhClassbox .classheader h3{
+	margin-top: 6px;
+	font-size: 26px;
+	color:#c92c2c;
+	font-weight: normal;
+}
+
+.wlhClassbox .classlinianbox{
+	width: 100%;
+	height: 284px;
+	background:#fff7f8;
+}
+.wlhClassbox .classlinianbox .classlinian{
+	width: 995px;
+	margin:0 auto;
+	padding-top: 44px;
+}
+.wlhClassbox .classlinianbox .classlinian p{
+	text-indent: 2em;
+	font-size: 18px;
+	color:#666;
+	line-height: 36px;
+}
+.wlhClassbox .classconbox{
+	width: 1002px;
+	height: auto;
+	margin:0 auto;
+}
+/*流程*/
+.wlhClassbox .classconbox .liuchengbox{
+	width: 995px;
+	overflow: hidden;
+	cursor: pointer!important;
+	position: relative;
+	height: 328px;
+	margin-top: 96px;
+	margin-bottom: 128px;
+}
+.wlhClassbox .classconbox .liuchengbox li{
+	float: left;
+	cursor: pointer!important;
+	margin-right: 69px;
+}
+.wlhClassbox .classconbox .liuchengbox li .liuchengsmall{
+	width: 223px;
+	height: 67px;
+	text-align: center;
+	padding-top: 51px;
+	font-size: 30px;
+	color:#f44237;
+	cursor: pointer;
+}
+.wlhClassbox .classconbox .liuchengbox li .liuchengsmall p{
+	cursor: pointer;
+}
+.wlhClassbox .classconbox .liuchengbox li .liuchengsmall:hover{
+    color:#fff;
+}
+.wlhClassbox .classconbox .liuchengbox li .liuchengsmall1{
+	background: url("../images/class_new/A0_wei.png") no-repeat;
+	cursor: pointer;
+}
+.wlhClassbox .classconbox .liuchengbox li .liuchengsmall1:hover{
+	background: url("../images/class_new/A0_yi.png") no-repeat
+}
+.wlhClassbox .classconbox .liuchengbox li .liuchengsmall2{
+	background: url("../images/class_new/A1_wei.png") no-repeat 0 -2px;
+	cursor: pointer;
+}
+.wlhClassbox .classconbox .liuchengbox li .liuchengsmall2:hover{
+	background: url("../images/class_new/A1_yi.png") no-repeat
+}
+.wlhClassbox .classconbox .liuchengbox li .liuchengsmall3{
+	background: url("../images/class_new/A2_wei.png") no-repeat 0 -2px;
+	cursor: pointer;
+}
+.wlhClassbox .classconbox .liuchengbox li .liuchengsmall3:hover{
+	background: url("../images/class_new/A2_yi.png") no-repeat
+}
+.wlhClassbox .classconbox .liuchengbox li .liuchengsmall4{
+	background: url("../images/class_new/C_wei.png") no-repeat 0 -6px;
+	cursor: pointer;
+}
+.wlhClassbox .classconbox .liuchengbox li .liuchengsmall4:hover{
+	background: url("../images/class_new/C_yi.png") no-repeat
+}
+.wlhClassbox .classconbox .liuchengbox li .liuchengsmall5{
+	background: url("../images/class_new/B2_wei.png") no-repeat 0 -2px;
+	cursor: pointer;
+}
+.wlhClassbox .classconbox .liuchengbox li .liuchengsmall5:hover{
+	background: url("../images/class_new/B2_yi.png") no-repeat
+}
+.wlhClassbox .classconbox .liuchengbox li .liuchengsmall6{
+	background: url("../images/class_new/B1_wei.png") no-repeat 0 -2px;
+	cursor: pointer;
+}
+.wlhClassbox .classconbox .liuchengbox li .liuchengsmall6:hover{
+	background: url("../images/class_new/B1_yi.png") no-repeat
+}
+.wlhClassbox .classconbox .liuchengbox li .zuobox{
+	width: 25px;
+	height: 30px;
+	margin-top: 59px;
+	background: url("../images/class_new/zuo.png") no-repeat
+}
+.wlhClassbox .classconbox .liuchengbox li .youbox{
+	width: 25px;
+	height: 30px;	
+	margin-top: 59px;
+	background: url("../images/class_new/you.png") no-repeat
+}
+.wlhClassbox .classconbox .liuchengbox li .xiabox{
+	width: 30px;
+	height: 25px;
+	background: url("../images/class_new/xia.png") no-repeat
+}
+.wlhClassbox .classconbox .liuchengbox li.xia_po{
+	position: absolute;
+	right: 81px;
+	top:166px;
+}
+.wlhClassbox .classconbox .liuchengbox li.liuchengbottom{
+	margin-bottom: 92px;
+}
+
+.wlhClassbox .classconbox .liuchengbox li img{
+	cursor: pointer;
+}
+
+
+
+
+/*feel start*/
+.wlhClassbox .classfeelbox{
+	width: 100%;
+	height: 251px;
+	background: #fff7f8;
+	padding-top: 66px;
+}
+.wlhClassbox .classfeelbox .classfeel{
+	width: 995px;
+	margin:0 auto;
+}
+.wlhClassbox .classfeelbox .classfeel li{
+	float: left;
+	width: 283px;
+	height: 183px;
+	background: url("../images/class_new/feel1.png") no-repeat;
+}
+.wlhClassbox .classfeelbox .classfeel li h3{
+	margin-top: 31px;
+	font-size: 46px;
+	color:#333333;
+	text-align: center;
+	font-weight: normal
+}
+.wlhClassbox .classfeelbox .classfeel li p{
+	font-size: 28px;
+	color:#333333;
+	font-weight: normal;
+	text-align: center;
+	margin-top: 7px;
+}
+
+.wlhClassbox .classfootbox{
+	width: 995px;
+	height: auto;
+	margin:0 auto;
+}
+.wlhClassbox .classfootbox .biaozhunbox{
+	width: 979px;
+	height: 384px;
+	margin:150px auto 169px;
+	background:url("../images/class_new/biaozhu.png") no-repeat 12px 0;
+	position: relative;
+}
+.wlhClassbox .classfootbox .biaozhunbox .tansuo{
+    position: absolute;
+    left: 48px;
+    top:78px;
+    color:#e69000;
+    font-size: 14px;
+    line-height: 1.7em;
+    width: 233px;
+    height: 69px;
+    text-align: justify;
+}
+.wlhClassbox .classfootbox .biaozhunbox .faxian{
+    position: absolute;
+    left: 0px;
+    bottom:0;
+    color:#f44237;
+    font-size: 14px;
+    line-height: 1.7em;
+    width: 295px;
+    height: 46px;
+    text-align: center;
+}
+.wlhClassbox .classfootbox .biaozhunbox .ganshou{
+    position: absolute;
+    right: 0px;
+    top:159px;
+    color:#349f8e;
+    font-size: 14px;
+    line-height: 1.7em;
+    width: 295px;
+    height: 46px;
+    text-align: left;
+}
+
+
+.wlhClassbox .classfootbox .shaonianbox{
+	width: 995px;
+	height: auto;
+}
+.wlhClassbox .classfootbox .shaonianbox .shaoniantitle{
+	width: 997px;
+	height: 38px;
+	position: relative;
+}
+.wlhClassbox .classfootbox .shaonianbox .shaoniantitle .shu{
+	width: 5px;
+	height: 38px;
+	background: #f44237;
+	position: absolute;
+	left: 2px;
+	top:0;
+}
+.wlhClassbox .classfootbox .shaonianbox .shaoniantitle h3{
+	font-size: 26px;
+	color: #333;
+	padding-left: 27px;
+	font-weight: normal;
+}
+.wlhClassbox .classfootbox .shaonianbox p{
+	font-size: 20px;
+	line-height: 41px;
+	text-align: justify;
+	margin-top: 11px;
+}
+
+
+
+.wlhClassbox .classfootbox .tablebox{
+	width: 1002px;
+	height: 292px;
+	background:url("../images/class/table.png") no-repeat;
+	margin-top: 52px;
+	margin-bottom: 128px;
+}
+.wlhClassbox .classfootbox .shiting{
+	width: 251px;
+	height: 51px;
+	border:0;
+	background:#ef4350;
+	border-radius: 25px;
+	-moz-border-radius: 25px;
+    -webkit-border-radius:  25px;
+	font-size: 22.5px;
+	color:#fff;
+	cursor: pointer;
+	display: block;
+	margin:0 auto;
+	margin-top: 128px;
+	margin-bottom: 117px;
+	font-family: "微软雅黑";
+	position: relative;
+}
+.wlhClassbox .classfootbox .shiting:after{
+	content:"";
+	display:block;
+	width: 251px;
+	height: 51px; background:#fff; opacity:0.1;
+	position:absolute;
+	top:0px;
+	left:-200px;
+	-webkit-transform:rotate(-50deg);
+	transform:rotate(-50deg);
+	
+	}
+.wlhClassbox .classfootbox .shiting:hover:after{ left:100%;-webkit-transition:all 0.4s ease-in-out;transition:all 0.4s ease-in-out;}
+
